@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student (2024.06-2027.06 expected) at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), co-supervised by [Dr. Jiangmiao Pang](https://oceanpang.github.io/), [Prof. Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), and [Prof. Dahua Lin](http://dahua.site/). Prior to my Ph.D., I spent two years in the graduate program (2022.09-2024.06) at USTC under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html/). I obtained my B.Eng. degree at [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) with honor in 2022.
+I am currently a second-year Ph.D. student (2024.06-2027.06 expected) at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), co-supervised by [Dr. Jiangmiao Pang](https://oceanpang.github.io/), [Prof. Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), and [Prof. Dahua Lin](http://dahua.site/). Prior to my Ph.D., I spent two years in the graduate program (2022.09-2024.06) at USTC under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html/). I received my B.Eng. with honors from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2022.
 
 My research interest lies in the field of Robotics, particularly VLA models, I also have research interests and experience in world model, image generation/editing and multimodal learning. I will be on the job market in 2027.
 
