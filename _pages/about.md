@@ -16,11 +16,11 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 
 # 🔥 News
-- 2026.02: 💪 Data, Bechmark, Model of [RoboInter](https://lihaohn.github.io/RoboInter.github.io/) were opened, and [Robo3R](https://arxiv.org/pdf/2602.10101) paper was released. 
+- 2026.02: 💪 Data, Bechmark, Model of [RoboInter](https://lihaohn.github.io/RoboInter.github.io/) were open source, and [Robo3R](https://arxiv.org/pdf/2602.10101) was released. 
 - 2026.02: 🎉 [RoboInter](https://arxiv.org/abs/2602.09973) and [InstructVLA](https://arxiv.org/abs/2507.17520) got accepted to ICLR 2026. 
-- 2026.01: 🎉 Second Place Award (2/62) of [RoCo Challenge](https://rocochallenge.github.io/RoCo2026/) @ AAAI 2026: Robotic Collaborative Assembling for Human-Centered Manufacturing. 
+- 2026.01: 🎉 We get Second Place Award (2/62) of [RoCo Challenge](https://rocochallenge.github.io/RoCo2026/) @ AAAI 2026: Robotic Collaborative Assembling for Human-Centered Manufacturing. 
 - 2025.11: 🎉 [CronusVLA](https://arxiv.org/abs/2506.19816) got accepted to AAAI 2026 as a **oral** presentation. 
-- 2025.10: 💪 Code of [InstructVLA](https://github.com/InternRobotics/InstructVLA), [CronusVLA](https://github.com/InternRobotics/CronusVLA) and [SimX-OR](https://github.com/LiHaoHN/SimX-OR) were opened. 
+- 2025.10: 💪 Code of [InstructVLA](https://github.com/InternRobotics/InstructVLA), [CronusVLA](https://github.com/InternRobotics/CronusVLA) and [SimX-OR](https://github.com/LiHaoHN/SimX-OR) were open source. 
 - 2025.09: 💪 [InternVLA-M1](https://arxiv.org/abs/2510.13778) was released. 
 - 2025.06: 💪 [CronusVLA](https://arxiv.org/abs/2506.19816) was released. 
 - 2025.03: 🎉 Our [GenManip](https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_GENMANIP_LLM-driven_Simulation_for_Generalizable_Instruction-Following_Manipulation_CVPR_2025_paper.pdf) and [RoboGround](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html) got accepted to CVPR 2025. 
@@ -277,7 +277,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 - Ph.D. in Control Science and Engineering of [University of Science and Technology of China](https://www.ustc.edu.cn/), 2024.06 - 2027.06 (expected)
 - Graduate program in Information and Communication Engineering of [University of Science and Technology of China](https://www.ustc.edu.cn/), 2022.09 - 2024.06
 - B.S. in School of Electronic Information and Communications of [Huazhong University of Science and Technology](https://english.hust.edu.cn/), 2018.09 - 2022.06
-  - Electronic Information Engineering (Mathematical Improvement Experimental Class), Rank: 3/30
+  - Electronic Information Engineering (Mathematical Improvement Experimental Class)
 
 ### Internships
 - *2024.06 - present*, in [InternRobotics of Shanghai AI Lab](https://www.shlab.org.cn/)
