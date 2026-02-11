@@ -1,0 +1,18 @@
+current directory: /Users/lihao/Desktop/投稿/主页/LiHaoHN.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20251203-53930-123zdxc.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /Users/lihao/Desktop/投稿/主页/LiHaoHN.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/lihao/Desktop/投稿/主页/LiHaoHN.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: search path '/AppleInternal/Library/BuildRoots/91a344b1-f985-11ee-b563-fe8bc7981bff/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.Internal.sdk/usr/local/lib' not found
+
+current directory: /Users/lihao/Desktop/投稿/主页/LiHaoHN.github.io/vendor/bundle/ruby/2.6.0/gems/racc-1.6.0/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251203-53930-1ffo1lv/racc
