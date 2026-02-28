@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a second-year Ph.D. student (2024.06-2027.06 expected) at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), co-supervised by [Dr. Jiangmiao Pang](https://oceanpang.github.io/), [Prof. Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), and [Prof. Dahua Lin](http://dahua.site/). Prior to my Ph.D., I spent two years in the graduate program (2022.09-2024.06) at USTC under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html/). I received my B.Eng. with honors from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2022.
 
-My research interest lies in the field of Robotics, particularly VLA models, I also have research interests and experience in world model, image generation/editing and multimodal learning. I will be on the job market in 2027.
+My research interest lies in the field of Robotics, particularly VLA models, I also have research interests and experience in world model for Embodied AI, image generation/editing and multimodal learning. I will be on the job market in 2027.
 
 
 # 🔥 News
@@ -268,7 +268,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 # 🎖 Honors and Awards
 - **Second Place Award (2/62)** of RoCo Challenge @ AAAI 2026: Robotic Collaborative Assembling for Human-Centered Manufacturing
 - **Second Prize (2/599, ¥200,000)** of the 2nd International Algorithm Case Competition of Greater Bay Area, Track of Efficient and Controllable Text-to-Image Generation
-- **National Scholarship (Top 2%), USTC, 2024**
+- **National Scholarship (Top 2%), Ministry of Education of China, 2024**
 - The First Prize Scholarship, USTC, 2025, 2024, 2023, 2022
 - Outstanding Graduate, HUST, 2022
 - **Outstanding Undergraduate in Terms of Academic Performance (Top 1%), HUST, 2020**
@@ -281,17 +281,16 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 - B.S. in School of Electronic Information and Communications of [Huazhong University of Science and Technology](https://english.hust.edu.cn/), 2018.09 - 2022.06
   - Electronic Information Engineering (Mathematical Improvement Experimental Class)
 
+<!-- ### Internships
+- *2024.06 - present*, in [InternRobotics of Shanghai AI Lab](https://www.shlab.org.cn/) -->
 ### Internships
-- *2024.06 - present*, in [InternRobotics of Shanghai AI Lab](https://www.shlab.org.cn/)
+- Research intern in InternRobotics.
 
 # 🧐 Community Services
 
 **Reviewer**
 
-- AAAI: 2025, 2026
-- CVPR: 2024, 2025
-- ICLR: 2025
-- ICML: 2025
+- AAAI 2025–2026, CVPR 2024–2025, ICLR 2025, ICML 2025, etc.
 
 # 💻 Links
 

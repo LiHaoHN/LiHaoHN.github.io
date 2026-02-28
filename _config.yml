@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Li (李豪)"
-description              : "Ph.D. Student at Shanghai AI Laboratory & USTC"
+description              : "Ph.D. Student at USTC"
 repository               : "LiHaoHN.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -31,7 +31,7 @@ author:
   email            : "lihaohn@mail.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  resume           : "files/Lihao_s_Resume.pdf"
+  resume           : "files/Lihao_EN_Resume.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
