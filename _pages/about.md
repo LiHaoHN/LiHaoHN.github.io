@@ -16,7 +16,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 
 # 🔥 News
-- 2026.02: 💪 Data, Bechmark, Model of [RoboInter](https://lihaohn.github.io/RoboInter.github.io/) were open source, and [Robo3R](https://arxiv.org/pdf/2602.10101) was released. 
+- 2026.02: 💪 Data, Benchmark, Model of [RoboInter](https://lihaohn.github.io/RoboInter.github.io/) were open source, and [Robo3R](https://arxiv.org/pdf/2602.10101) was released. 
 - 2026.02: 🎉 [RoboInter](https://arxiv.org/abs/2602.09973) and [InstructVLA](https://arxiv.org/abs/2507.17520) got accepted to ICLR 2026. 
 - 2026.01: 🎉 We get Second Place Award (2/62) of [RoCo Challenge](https://rocochallenge.github.io/RoCo2026/) @ AAAI 2026: Robotic Collaborative Assembling for Human-Centered Manufacturing. 
 - 2025.11: 🎉 [CronusVLA](https://arxiv.org/abs/2506.19816) got accepted to AAAI 2026 as a **oral** presentation. 
