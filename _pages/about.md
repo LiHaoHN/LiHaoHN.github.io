@@ -284,7 +284,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 <!-- ### Internships
 - *2024.06 - present*, in [InternRobotics of Shanghai AI Lab](https://www.shlab.org.cn/) -->
 ### Internships
-- Research intern in InternRobotics.
+- Research intern in InternRobotics, Shanghai AI Lab.
 
 # 🧐 Community Services
 
