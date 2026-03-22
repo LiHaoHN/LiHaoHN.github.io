@@ -30,13 +30,13 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 # 📝 Publications 
 
-(‡: project leader; †: corresponding author; * :equal contribution)
+(* :equal contribution; ‡: project leader; †: corresponding author)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/robointer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation**
 
-**Hao Li\***,
+**Hao Li**,
 [Ziqin Wang](),
 [Zi-han Ding](),
 [Shuai Yang](),
@@ -63,7 +63,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 <div class='paper-box-text' markdown="1">
 **CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling**
 
-**Hao Li\***,
+**Hao Li**,
 [Shuai Yang](https://github.com/YangS03/about_me/blob/main/resume_shuai_2025.pdf/),
 [Yilun Chen<sup>†</sup>](https://yilunchen.com/about/),
 [Xinyi Chen](),
