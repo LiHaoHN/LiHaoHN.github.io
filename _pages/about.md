@@ -16,6 +16,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 
 # 🔥 News
+- 2026.03: 💪 [FutureVLA](https://arxiv.org/pdf/2603.10712) was released.
 - 2026.02: 💪 Data, Benchmark, Model of [RoboInter](https://lihaohn.github.io/RoboInter.github.io/) were open source, and [Robo3R](https://arxiv.org/pdf/2602.10101) was released. 
 - 2026.02: 🎉 [RoboInter](https://arxiv.org/abs/2602.09973) and [InstructVLA](https://arxiv.org/abs/2507.17520) got accepted to ICLR 2026. 
 - 2026.01: 🎉 We get Second Place Award (2/62) of [RoCo Challenge](https://rocochallenge.github.io/RoCo2026/) @ AAAI 2026: Robotic Collaborative Assembling for Human-Centered Manufacturing. 
@@ -29,7 +30,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 # 📝 Publications 
 
-(†: corresponding author; * :equal contribution)
+(‡: project leader; †: corresponding author; * :equal contribution)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/robointer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,7 +40,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 [Ziqin Wang*](),
 [Zi-han Ding](),
 [Shuai Yang](),
-[Yilun Chen](),
+[Yilun Chen<sup>‡</sup>](),
 [Yang Tian](),
 [Xiaolin Hu](),
 [Tai Wang](),
@@ -93,7 +94,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 [Shuai Yang*](https://github.com/YangS03/about_me/blob/main/resume_shuai_2025.pdf/),
 **Hao Li\***,
 [Bing Wang](https://yilunchen.com/about/),
-[Yilun Chen](https://yilunchen.com/about/),
+[Yilun Chen<sup>‡</sup>](https://yilunchen.com/about/),
 [Yang Tian](),
 [Tai Wang](https://tai-wang.github.io/),
 [Hanqing Wang](https://hanqingwangai.github.io/),
@@ -104,6 +105,29 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 [[**Project**]](https://yangs03.github.io/InstructVLA_Home/)&nbsp;
 [[**Paper**]](https://arxiv.org/abs/2507.17520)&nbsp;
 [[**Code**]](https://github.com/OpenRobotLab/InstructVLA)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/FutureVLA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model.**
+
+[Xiaoxu Xu](),
+**Hao Li<sup>‡</sup>**,
+[Bing Wang](https://yilunchen.com/about/),
+[Jinhui Ye](),
+[Yilun Chen](https://yilunchen.com/about/),
+[Jia Zeng](),
+[Xinyi Chen](),
+[Linning Xu](),
+[Dahua Lin](),
+[Weixin Li](),
+[Jiangmiao Pang](https://oceanpang.github.io/)
+
+[[**Project**]](https://xuxiaoxxxx.github.io/projects/futurevla/)&nbsp;
+[[**Paper**]]()&nbsp;
+[[**Code**]]()
 
 </div>
 </div>
@@ -284,7 +308,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 <!-- ### Internships
 - *2024.06 - present*, in [InternRobotics of Shanghai AI Lab](https://www.shlab.org.cn/) -->
 ### Internships
-- Research intern in InternRobotics, Shanghai AI Lab.
+- Research intern in InternRobotics (Team of InternVLA-M1/A1), Shanghai AI Lab.
 
 # 🧐 Community Services
 
