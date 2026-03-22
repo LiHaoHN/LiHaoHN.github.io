@@ -109,7 +109,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/FutureVLA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../images/FutureVLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model.**
 
