@@ -114,7 +114,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 **FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model.**
 
 [Xiaoxu Xu](),
-**Hao Li<sup>‡</sup>**,
+**Hao Li\*<sup>‡</sup>**,
 [Bing Wang](https://yilunchen.com/about/),
 [Jinhui Ye](),
 [Yilun Chen](https://yilunchen.com/about/),
@@ -145,6 +145,27 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 </div>
 </div>
+
+
+<!-- GRA -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='../images/gradstyle.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Gradual Residuals Alignment: A Dual-Stream Framework for GAN Inversion and Image Attribute Editing**
+
+**Hao Li**,
+[Mengqi Huang](),
+[Lei Zhang](),
+[Bo Hu](),
+[Yu Liu](),
+[Zhengdong Mao]()
+
+[[**Project**]]()&nbsp;
+[[**Paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/28063)&nbsp;
+[[**Code**]]()
+
+</div>
+</div>
+<!-- GRA -->
 
 <!-- MVColight -->
 
@@ -249,25 +270,6 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 <!-- GSDF -->
 
 
-<!-- GRA -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='../images/gradstyle.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**Gradual Residuals Alignment: A Dual-Stream Framework for GAN Inversion and Image Attribute Editing**
-
-**Hao Li**,
-[Mengqi Huang](),
-[Lei Zhang](),
-[Bo Hu](),
-[Yu Liu](),
-[Zhengdong Mao]()
-
-[[**Project**]]()&nbsp;
-[[**Paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/28063)&nbsp;
-[[**Code**]]()
-
-</div>
-</div>
-<!-- GRA -->
 
 <!-- PAD -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI Long Oral </div><img src='../images/ersan.png' alt="sym" width="100%"></div></div>
