@@ -178,12 +178,12 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 **Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**
 
 [Sizhe Yang](),
-[Linning Xu](),
+[Linning Xu]()<sup>†</sup>,
 **Hao Li**,
 [Juncheng Mu](),
 [Jia Zeng](),
 [Dahua Lin](https://tai-wang.github.io/),
-[Jiangmiao Pang](https://oceanpang.github.io/)
+[Jiangmiao Pang](https://oceanpang.github.io/)<sup>†</sup>
 
 [[**Project**]](https://yangsizhe.github.io/robo3r/)&nbsp;
 [[**Paper**]](https://arxiv.org/pdf/2602.10101)&nbsp;
