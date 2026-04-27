@@ -16,6 +16,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 
 # 🔥 News
+- 2026.04: 🎉 [Robo3R](https://arxiv.org/pdf/2602.10101) got accepted to RSS 2026, congratulations to Sizhe Yang!
 - 2026.03: 💪 [FutureVLA](https://arxiv.org/pdf/2603.10712) was released.
 - 2026.02: 💪 Data, Benchmark, Model of [RoboInter](https://lihaohn.github.io/RoboInter.github.io/) were open source, and [Robo3R](https://arxiv.org/pdf/2602.10101) was released. 
 - 2026.02: 🎉 [RoboInter](https://arxiv.org/abs/2602.09973) and [InstructVLA](https://arxiv.org/abs/2507.17520) got accepted to ICLR 2026. 
@@ -109,6 +110,21 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='../images/internvla-m1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**InternVLA-M1: A Spatially Grounded Foundation Framework for Generalist Robot Policy**
+
+[InternVLA-M1 Team]()
+
+[[**Project**]](https://internrobotics.github.io/internvla-m1.github.io)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2510.13778)&nbsp;
+[[**Code**]](https://github.com/InternRobotics/InternVLA-M1)
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../images/FutureVLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **FutureVLA: Joint Visuomotor Prediction for Vision-Language-Action Model.**
@@ -133,18 +149,6 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 </div>
 <!-- ObjectGS -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2025</div><img src='../images/internvla-m1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**InternVLA-M1: A Spatially Grounded Foundation Framework for Generalist Robot Policy**
-
-[InternVLA-M1 Team]()
-
-[[**Project**]](https://internrobotics.github.io/internvla-m1.github.io)&nbsp;
-[[**Paper**]](https://arxiv.org/abs/2510.13778)&nbsp;
-[[**Code**]](https://github.com/InternRobotics/InternVLA-M1)
-
-</div>
-</div>
 
 
 <!-- GRA -->
@@ -169,7 +173,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 <!-- MVColight -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='../images/Robo3R.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2026</div><img src='../images/Robo3R.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Robo3R: Enhancing Robotic Manipulation with Accurate Feed-Forward 3D Reconstruction**
 
