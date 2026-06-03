@@ -12,8 +12,7 @@ redirect_from:
 
 I am currently a second-year Ph.D. student (2024.06-2027.06 expected) at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), co-supervised by [Dr. Jiangmiao Pang](https://oceanpang.github.io/), [Prof. Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), and [Prof. Dahua Lin](http://dahua.site/). Prior to my Ph.D., I spent two years in the graduate program at USTC under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html/). I received my B.Eng. with honors from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2022.
 
-My research interest lies in the field of Robotics, particularly VLA models, I also have research interests and experience in world model for Embodied AI, image generation/editing and multimodal learning. I will be on the job market in 2027.
-
+My research interest lies in the field of Robotics, particularly VLA models, I also have research interests and experience in world model for Embodied AI, image generation/editing and multimodal learning.
 
 # 🔥 News
 - 2026.04: 🎉 [Robo3R](https://arxiv.org/pdf/2602.10101) got accepted to RSS 2026, congratulations to Sizhe Yang!
@@ -26,7 +25,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 - 2025.09: 💪 [InternVLA-M1](https://arxiv.org/abs/2510.13778) was released. 
 - 2025.06: 💪 [CronusVLA](https://arxiv.org/abs/2506.19816) was released. 
 - 2025.03: 🎉 Our [GenManip](https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_GENMANIP_LLM-driven_Simulation_for_Generalizable_Instruction-Following_Manipulation_CVPR_2025_paper.pdf) and [RoboGround](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_RoboGround_Robotic_Manipulation_with_Grounded_Vision-Language_Priors_CVPR_2025_paper.html) got accepted to CVPR 2025. 
-- 2024.06: 🌟 I joined InternRobotics.
+- 2024.06: 🌟 I joined Shanghai AI Lab.
 - 2024.01: 🎉 Our system for the *Efficient and Controllable Text-to-Image Generation* in the [2nd International Algorithm Case Competition (IACC) of the Greater Bay Area](https://iacc.pazhoulab-huangpu.com/) was awarded **Second Prize in the Grand Finals (2/599, prize ¥200,000)**, where I served as the first contributor, and [video of my presentation](https://www.bilibili.com/video/BV12b4y1L7h2/?spm_id_from=333.1387.upload.video_card.click) was released.
 
 # 📝 Publications 
@@ -312,9 +311,9 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
   - Electronic Information Engineering (Mathematical Improvement Experimental Class)
 
 <!-- ### Internships
-- *2024.06 - present*, in [InternRobotics of Shanghai AI Lab](https://www.shlab.org.cn/) -->
+- *2024.06 - present*, in [Shanghai AI Lab](https://www.shlab.org.cn/) -->
 ### Internships
-- Research intern in InternRobotics (Team of InternVLA-M1/A1), Shanghai AI Lab.
+- Research intern in Shanghai AI Lab.
 
 # 🧐 Community Services
 
