@@ -33,7 +33,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 (* :equal contribution; ‡: project leader; †: corresponding author)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='../images/robointer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026 & ICLR 2026</div><img src='../images/robointer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation**
 
