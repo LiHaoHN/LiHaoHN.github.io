@@ -61,7 +61,7 @@ My research focuses on Robotics and Embodied AI, particularly Vision-Language-Ac
 <div class='paper-box-text' markdown="1">
 **InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization**
 
-Hao Li*(core contributor), Team of InternVLA-A1.5.
+**Hao Li*(core contributor), Team of InternVLA-A1.5.**
 
 
 [[**Project**]](https://internrobotics.github.io/internvla-a15.github.io/)&nbsp;
