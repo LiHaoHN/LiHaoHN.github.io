@@ -10,11 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year Ph.D. student (2024.06-2027.06 expected) at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), co-supervised by [Dr. Jiangmiao Pang](https://oceanpang.github.io/), [Prof. Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), and [Prof. Dahua Lin](http://dahua.site/). Prior to my Ph.D., I spent two years in the graduate program at USTC under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html/). I received my B.Eng. with honors from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2022.
+I am currently a second-year Ph.D. student (2024.06-2027.06 expected) at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/),  jointly trained with [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), co-supervised by [Dr. Jiangmiao Pang](https://oceanpang.github.io/), [Prof. Feng Zhao](https://en.auto.ustc.edu.cn/2021/0616/c26828a513169/page.htm), and [Prof. Dahua Lin](http://dahua.site/). Prior to my Ph.D., I spent two years in the graduate program at USTC under the supervision of [Prof. Yongdong Zhang](https://imcc.ustc.edu.cn/_upload/tpl/0d/13/3347/template3347/zhangyongdong.html/). I received my B.Eng. with honors from [Huazhong University of Science and Technology (HUST)](https://english.hust.edu.cn/) in 2022.
 
-My research interest lies in the field of Robotics, particularly VLA models, I also have research interests and experience in world model for Embodied AI, image generation/editing and multimodal learning.
+My research focuses on Robotics and Embodied AI, particularly Vision-Language-Action (VLA) models and World-Action Models (WAMs). I am also interested in VLM Brains and Embodied World Models. My experience spans model architecture design, large-scale training, data pipeline construction, benchmark evaluation, and real-world robotic system deployment in Embodied AI.
 
 # 🔥 News
+- 2026.07: 🎉 [InternVLA-A1.5](https://arxiv.org/abs/2607.04988) was released, a new unified foundation model that integrates world modeling and improve compositional generalization in embodied manipulation.
+- 2026.06: 💪 [EBench](https://arxiv.org/abs/2606.18239) is officially released! We invite VLA and WAM models to undergo comprehensive evaluation with EBench. Check out the [project repository](https://github.com/InternRobotics/EBench/)!
+- 2026.05: 💪 We propose [RoboInter1.5](https://arxiv.org/abs/2607.18709), which extends intermediate representations to World Modeling, unlocking a new dimension for structured physical world prediction.
 - 2026.04: 🎉 [Robo3R](https://arxiv.org/pdf/2602.10101) got accepted to RSS 2026, congratulations to Sizhe Yang!
 - 2026.03: 💪 [FutureVLA](https://arxiv.org/pdf/2603.10712) was released.
 - 2026.02: 💪 Data, Benchmark, Model of [RoboInter](https://lihaohn.github.io/RoboInter.github.io/) were open source, and [Robo3R](https://arxiv.org/pdf/2602.10101) was released. 
@@ -31,6 +34,43 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 # 📝 Publications 
 
 (* :equal contribution; ‡: project leader; †: corresponding author)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='../images/RoboInter1_5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**RoboInter1.5: A Holistic Intermediate Representation Suite for Embodied World Modeling and Robotic Manipulation**
+
+**Hao Li\***,
+**Ziqin Wang\***,
+[Weijun Wang](),
+[Junhao Cai](),
+[Jia Zeng](),
+[Yilun Chen](),
+[Jiangmiao Pang](https://oceanpang.github.io/),
+[Si Liu](https://iai.buaa.edu.cn/info/1013/1096.htm),
+
+
+[[**Project**]](https://lihaohn.github.io/RoboInter.github.io/)&nbsp;
+[[**Paper**]](https://arxiv.org/abs/2607.18709)&nbsp;
+[[**Code**]](https://github.com/InternRobotics/RoboInter)&nbsp;
+[[**Data**]](https://huggingface.co/datasets/InternRobotics/RoboInter-Data)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026</div><img src='../images/internvla-a15.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization**
+
+Hao Li*(core contributor), Team of InternVLA-A1.5.
+
+
+[[**Project**]](https://internrobotics.github.io/internvla-a15.github.io/)&nbsp;
+[[**Paper**]](https://arxiv.org/pdf/2607.04988)&nbsp;
+[[**Code**]](https://github.com/InternRobotics/InternVLA-A-series)&nbsp;
+[[**Model**]](https://huggingface.co/collections/InternRobotics/internvla-a15)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report 2026 & ICLR 2026</div><img src='../images/robointer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -225,7 +265,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 <!-- Scene4U -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/genmainp.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/genmainp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation**
 
@@ -246,7 +286,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 [[**Code**]](https://github.com/OpenRobotLab/GenManip)
 
 </div>
-</div>
+</div> -->
 <!-- Scene4U -->
 
 <!-- Horizon-GS -->
@@ -305,7 +345,7 @@ My research interest lies in the field of Robotics, particularly VLA models, I a
 
 # 📖 Experience
 ### Educations
-- Ph.D. in Control Science and Engineering of [University of Science and Technology of China](https://www.ustc.edu.cn/), 2024.06 - 2027.06 (expected)
+- Ph.D. in Control Science and Engineering of [University of Science and Technology of China](https://www.ustc.edu.cn/) & Shanghai Artificial Intelligence Laboratory, 2024.06 - 2027.06 (expected)
 - Graduate program in Information and Communication Engineering of [University of Science and Technology of China](https://www.ustc.edu.cn/), 2022.09 - 2024.06
 - B.S. in School of Electronic Information and Communications of [Huazhong University of Science and Technology](https://english.hust.edu.cn/), 2018.09 - 2022.06
   - Electronic Information Engineering (Mathematical Improvement Experimental Class)
